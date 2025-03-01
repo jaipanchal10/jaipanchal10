@@ -9,7 +9,7 @@
     
 - 🌱 I'm actively learning Spring Boot, DevOps, and enhancing my Data Structures and Algorithms (DSA) skills.
 
-- 👯 I have extensive experience with Spring Boot Framework and proficient in Java, with a solid understanding of its ecosystem and looking to collaborate on Java. 
+- 👯 I have extensive experience with Spring Boot Framework and am proficient in Java, with a solid understanding of its ecosystem and looking to collaborate on Java projects.
 
 - 💬 Ask me about Java and tech related stuff.
 <!-- <a href="https://twitter.com/jaipanchal70" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jaipanchal70" height="30" width="40" /></a> &emsp; -->
